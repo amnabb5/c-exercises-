@@ -1,11 +1,6 @@
 # c-exercises-
 Here are some exercises with c
-# Table of Contents
-# Introduction
-1)
-# Solutions
-2)
-# Contributing
+ontributing
 
 # Introduction
 This series of programming solutions includes implementations of various algorithms and problems in the C programming language. Each solution is provided with comments and explanations to help users understand the logic behind the implementation.
